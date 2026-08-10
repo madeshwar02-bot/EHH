@@ -1,0 +1,6 @@
+{
+  "name": "Exam Hall Allotment System",
+  "description": "Room and physical seat allotment system for university exams.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
